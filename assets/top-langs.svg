@@ -1,0 +1,26 @@
+<svg width='320' height='200' viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'>
+<style>text{fill:#f8f8f2;font-family:'Segoe UI',sans-serif;} .title{font-size:20px;font-weight:600;} .percent{font-size:12px;fill:#a9b1d6;} .label{font-size:14px;font-weight:500;} .small{font-size:10px;fill:#7aa2f7;}</style>
+<rect x='0' y='0' width='{width}' height='{height}' rx='12' fill='#1a1b27' stroke='#1f2335' stroke-width='1'/>
+<text class='title' x='25' y='40'>Most used languages</text>
+<text class='small' x='25' y='55'>Privateリポジトリを含む</text>
+<rect x='30' y='70' width='230.85' height='12' rx='6' fill='#DA5B0B' opacity='0.85' />
+<circle cx='18' cy='76' r='6' fill='#DA5B0B' />
+<text class='label' x='38' y='80'>Jupyter Notebook</text>
+<text class='percent' x='290' y='80'>92.3%</text>
+<rect x='30' y='98' width='7.53' height='12' rx='6' fill='#3572A5' opacity='0.85' />
+<circle cx='18' cy='104' r='6' fill='#3572A5' />
+<text class='label' x='38' y='108'>Python</text>
+<text class='percent' x='290' y='108'>3.0%</text>
+<rect x='30' y='126' width='4.73' height='12' rx='6' fill='#f1e05a' opacity='0.85' />
+<circle cx='18' cy='132' r='6' fill='#f1e05a' />
+<text class='label' x='38' y='136'>JavaScript</text>
+<text class='percent' x='290' y='136'>1.9%</text>
+<rect x='30' y='154' width='4.28' height='12' rx='6' fill='#e34c26' opacity='0.85' />
+<circle cx='18' cy='160' r='6' fill='#e34c26' />
+<text class='label' x='38' y='164'>HTML</text>
+<text class='percent' x='290' y='164'>1.7%</text>
+<rect x='30' y='182' width='4.00' height='12' rx='6' fill='#563d7c' opacity='0.85' />
+<circle cx='18' cy='188' r='6' fill='#563d7c' />
+<text class='label' x='38' y='192'>CSS</text>
+<text class='percent' x='290' y='192'>1.0%</text>
+</svg>
