@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Top Languages](./assets/top-langs.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamachu216&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
